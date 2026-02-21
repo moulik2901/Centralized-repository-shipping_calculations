@@ -1,3 +1,4 @@
+# Bug fix typo
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
